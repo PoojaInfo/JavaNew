@@ -22,6 +22,11 @@ public class Cjc
 			System.out.println("M3 method");
 
 	}
+	public void m5()
+	{
+			System.out.println("M5 method");
+
+	}
 	
 public static void main(String[] args) {
 	System.out.println("welcome to cjc");
