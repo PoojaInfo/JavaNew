@@ -16,6 +16,8 @@ public class LombokAnnotationsByUsingConstApplication {
 		
 		System.out.println(s);
 		System.out.println(s1);
+
+		System.out.println("This is Student");
 	}
 
 }
